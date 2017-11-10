@@ -1,0 +1,8 @@
+#过滤文件夹，在根目录下
+/node_modules
+
+#过滤文件夹
+node_modules/
+
+#过滤文件
+*.zip
